@@ -49,10 +49,18 @@ main > .intro {
 	font-weight: 600;
 }
 
+main > .greeting {
+	font-size: small;
+}
+
 main > .tagline {
-	font-size: 1.5rem;
+	font-size: 1.56rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+}
+
+main > .mixer {
+	font-size: medium;
 }
 
 .icons-social i {
