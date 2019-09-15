@@ -50,11 +50,11 @@ main > .intro {
 }
 
 main > .greeting {
-	font-size: small;
+	font-size: large;
 }
 
 main > .tagline {
-	font-size: 1.56rem;
+	font-size: medium;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
