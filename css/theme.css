@@ -12,3 +12,8 @@ main {
 .icons-social a svg path{
 	fill: #e1b910;
 }
+
+footer a {
+   color: #949494;
+   text-decoration: none;
+}

@@ -77,3 +77,11 @@ main > .mixer {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+footer {
+	margin-top: auto;
+	text-align: center;
+	text-align: center;
+	padding: 1vh;
+	border-top: 1px solid #e2e2e2;
+}
