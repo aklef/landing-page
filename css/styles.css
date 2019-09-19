@@ -51,6 +51,7 @@ main > .intro {
 
 main > .greeting {
 	font-size: large;
+    margin-top: 3vh;
 }
 
 main > .tagline {
@@ -61,6 +62,7 @@ main > .tagline {
 
 main > .mixer {
 	font-size: medium;
+	margin-top: 3vh;
 }
 
 .icons-social i {
