@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/aklef
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://klef.ca
+  * I am aklef (https://keybase.io/aklef) on keybase.
+  * I have a public key with fingerprint 65F5 2BBE FF3B D02A 22FF  D951 06ED A662 8CD4 55F7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b56bbc0207c91a91649716284465650bfcc3892ab85f222ffdff8372568418d50a",
+      "fingerprint": "65f52bbeff3bd02a22ffd95106eda6628cd455f7",
+      "host": "keybase.io",
+      "key_id": "06eda6628cd455f7",
+      "kid": "01011033d5bfcb45a4ccfae0fc6799fe9657bd991062c080ca9b392c7c68a75bf36d0a",
+      "uid": "1f6aaef83637e439eac1dd7ad6ee5b19",
+      "username": "aklef"
+    },
+    "service": {
+      "hostname": "klef.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568865878,
+  "expire_in": 157680000,
+  "prev": "00fdf0f4fc5f86c70b473d9fde1126d775d75ba02ef181bba026b37d3502a848",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNrAnicZVJ7UFRVGN/lKZDtqmTAqjjXapIhus9z711QaWAmCEgMEdF113vvORc2
+cHfZBy7D+EBLC0keWZjRRFkWPXgkIcMQE4ypE0IDLPJHYA0PoS3GmWBwxiK7l/Sv
+zj/nnO/7/X7f7/vOubo6UBOuDZm/JFb5cu9p+3trPJoDJ/7ZU46JdliGGcuxIrSy
+oWKIXG5LkRViRgwnSFxkgChKOImzEk8IPAFoniUAydE0YACDi7IkURxPCiLHyCRJ
+yjKUZY5iSQZwNMFBBheweEy22gqQ0+G02tyKLGBkhhRFJMuUCHFSWGHxDIEDBAWg
+aEuQZhiZVYiFdpfKUMyJggslWO1KTLlY/rP3f/wj3zhB4BQFGcWeSDMCLUmygHBZ
+AizPy4gHDCtCnlcqkhLO4ZLAixRPSqwEOIFVSBSAK749K3KEDAQBKV0BikU0xSNB
+IiBkBQgQYkSCV4Eu5LQJh5CCFoqKkYwdiceUUKlVQupU1TYeptVsgqSKO5x2t12y
+FyvBQrfb4TKqJHeZQ0UdRqLlId8iWm1QmZ/CKEVOl9Vuw4yEgpTcVlWQUAbNAYZj
+uXgMeR1WJ7JYVQTDAg5XlloHlapDwZWnwWValhiZAxKLizRLQV6GiCBIAFmWgUrr
+Ak4imeAIUT0BkWIhxShPxNEcpnZUYrNjRpJSfAoFiqbLWmAT3B4nwo709ZqCNNpw
+TUhwgPqxNOFh+kff7Rap11Trqpd2WtauDc6m05rf/fF29FzD7HN7x8+BvTmBF87H
+5U69X/kCXVvfdXLH6dbcrqOpmUNvB3XS3nPpH97Vpa27HBHxtyt7Kq6fWzU0E1XV
+kr8rr8dzNLa7AkX3Hn5yvH5/5sLrFbXBKW/svrWYeFNqPNQpDrVt3H5wX8LAR+zH
+6SN/Fdf84TReXNc4eLbs00RpLmA6r7S745OXYj/f1FW5AMOWe/7Meeu9ZXa2AsQY
+ns6p0Y7N1LevMT/f2xdWfvyVrLFVYOObJ/Mfv79+5NnQB967T5me2XrnWP+oIePM
+V0vBucuhqUmzhrp7yU0fjFwZLU8/OOxv/iaVsbTJ5uJofVWzNobxNv3yZV6lz23L
+2LDcF1XXXFiy3T9ywDv82IvrYSL3my9LezYSt+m/mBCEykurPzMP5L9jdbzcYxsU
+zWd2xhERpcnxAbF3Bgs3R/qKboz/cH3bA8LA+m+m3E+Z9oXvNxkWBzfokv3V/cdr
+dOfbf22IzpnsmU4Jat3X9O1cH7np9xizP6pw4sapzQsj1zza76+a+VZ9Umd7zWTk
+lrrrWyLwXW0BKdPdvNPXsDukxXT5NQ29dMo/sCemz9F2oby1I0mXNfDE/E8lmWkz
+htqqxgxT3Y5JfTB9ylTf4Lk9P7rs+rpjayicyZ7wntBdnHr1O3NPZ+Dgz9uOSdeG
+AwuujK0ZbVn8F0Kjudk=
+=L5c4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aklef
+
+==================================================================
