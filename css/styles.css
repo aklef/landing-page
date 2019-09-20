@@ -60,11 +60,6 @@ main > .tagline {
 	font-weight: 100;
 }
 
-main > .mixer {
-	font-size: medium;
-	margin-top: 3vh;
-}
-
 .icons-social i {
 	padding: 10px;
 }
